@@ -32,6 +32,7 @@ $ nodemon server
 + Open [http://127.0.0.1:3000](http://127.0.0.1:3000) in browser
 + Enter Email Address: foobar@test.com, Password: pass
 + Click Login button
++ NOTE:  NEED TO ACTUALLY USE localhost:3000 for this!!!
 
 #### Console
 ```

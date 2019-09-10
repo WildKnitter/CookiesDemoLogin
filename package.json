@@ -1,0 +1,25 @@
+{
+  "name": "cookiesdemologin",
+  "version": "1.0.0",
+  "description": "This is a login app that uses cookies.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildKnitter/CookiesDemoLogin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WildKnitter/CookiesDemoLogin/issues"
+  },
+  "homepage": "https://github.com/WildKnitter/CookiesDemoLogin#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "connect-cookies": "0.0.0",
+    "express-session": "^1.16.2"
+  }
+}
